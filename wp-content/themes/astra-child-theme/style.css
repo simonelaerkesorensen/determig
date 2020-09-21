@@ -1,7 +1,18 @@
+
+/*
 .swiper-slide-image {
   opacity: 0.5;
 }
 
 .swiper-slide-image:hover {
+  opacity: 1.0;
+}
+*/
+
+body #post-772 .swiper-slide-image {
+  opacity: 0.5;
+}
+
+body #post-772 .swiper-slide-image:hover {
   opacity: 1.0;
 }
