@@ -1,0 +1,7 @@
+.swiper-slide-image {
+  opacity: 0.5;
+}
+
+.swiper-slide-image:hover {
+  opacity: 1.0;
+}
